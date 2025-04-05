@@ -10,7 +10,7 @@
 -- RedeLandia Framework V. 2.0
 -- Criada por: UrgingGamer
 --
--- Copyright (c) RedeLandia 2021. Todos os Direitos Reservados!
+Copyright (c) RedeLandia 2021. Todos os Direitos Reservados!
 
 AddEventHandler('playerConnecting', function(name, setKickReason, deferrals)
     local source = source
